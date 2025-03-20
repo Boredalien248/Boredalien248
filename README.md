@@ -69,8 +69,5 @@
 ⭐️ **Check out my repositories and leave a star if you like my work!**
 
 ### 🎮 Play Tetris Here!
-If you feel like your attention is dropping, here’s my favorite game to keep you entertained. 🎮  
-
-<p align="center">
-  <iframe src="https://boredalien248.github.io/Tetris_game/" width="350" height="700"></iframe>
-</p>
+Want a quick break ?, here’s my favorite game to keep you entertained. 🎮  
+👉 [**Click here to play!**](https://boredalien248.github.io/Tetris_game/)
